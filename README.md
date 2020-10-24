@@ -7,7 +7,10 @@ Wouldn't it be better if the code could just be a bit smarter and understand tha
 <b>Smart Pandas Column</b> is a simple yet useful pandas extension that does exactly that.
 
 ## Installing
-You can install this package straight from this repo
+You can install this package straight from this repo using the following command:
+```
+pip install git+https://github.com/georschi/smart-pandas-column
+```
 
 ## Usage
 Usage is very simple. Just wrap your dataframe with the <i>SmartColumnDataFrame</i> class and you are good to go.
